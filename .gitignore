@@ -1,0 +1,26 @@
+# Virtual environments
+Usersdanieml_env/
+ml_env/
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# VS Sixth
+.sixth/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: generated outputs if you don't want them tracked
+# Results/*.pdf
+# Results/*.csv
